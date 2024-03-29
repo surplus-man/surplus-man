@@ -1,6 +1,6 @@
 
  - 재밌어 보이면 여기저기 이것저것 기웃거리는 잉여 (I'm a surplus-man)
- - 잉여력으로 이것저것 해보는 사람
+ - 데이터 납땜 ･ 공구리 전문
 
 <!---
 surplus-man/surplus-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
